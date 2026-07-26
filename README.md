@@ -138,10 +138,6 @@ This is a local console-based Python script and does not require deployment. It 
 This project is documented using this `README.md`, which explains the game overview, rules, features, installation steps, and sample gameplay output. The source code `Hangman.py` is organized in a readable way with clear variable names and logical flow, making it easy for beginners to understand and modify.
 
 ---
-## 👤 Author
-- [@shreyakantha](https://github.com/shreyakantha)
-
----
 ## 🙌 Acknowledgements
 - Inspiration from classic Hangman console games
 - ASCII art adapted from common Hangman templates
